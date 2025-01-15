@@ -17,30 +17,6 @@ This project is a web application for predicting avocado prices based on histori
 - **Pandas & Numpy**: Data manipulation and numerical operations.
 - **Bootstrap**: For responsive web design.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/avocado-price-prediction.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd avocado-price-prediction
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the Flask app:
-   ```bash
-   python app.py
-   ```
-
-   The application will be available at `http://127.0.0.1:5000/`.
-
 ## Data
 
 The dataset used for training the machine learning model is **avocado.csv**. This file contains historical data on avocado prices and associated features, including:
@@ -54,7 +30,7 @@ The dataset used for training the machine learning model is **avocado.csv**. Thi
 
 1. To train the model, run the following script:
    ```bash
-   python train_model.py
+   python model.py
    ```
 
 2. This script processes the data, tunes the Random Forest Regressor model, and saves the trained model and encoder as `random_forest_model.pkl` and `region_encoder.pkl`.
