@@ -1,7 +1,7 @@
 # Avocado Price Prediction Web App: A Machine Learning Approach
 
 ## Overview
-This project is a web application for predicting avocado prices based on historical data. It uses machine learning, specifically a Random Forest Regressor, to predict the average price of avocados based on inputs like date, region, and avocado packaging details. The application is built with Flask and utilizes a pre-trained model to make predictions.
+This project is a web application for predicting avocado prices based on historical data. It uses machine learning, specifically a Random Forest Regressor, to predict the average price of avocados based on inputs like date, region, and avocado packaging details. The application is built with Flask and utilizes the pre-trained model to make predictions.
 
 ## Features
 - **User Input**: Users can input the date, region, and avocado packaging details (total volume, small bags, large bags, and extra-large bags).
