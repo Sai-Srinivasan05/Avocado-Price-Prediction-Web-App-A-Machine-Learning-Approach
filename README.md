@@ -44,3 +44,7 @@ The dataset used for training the machine learning model is **avocado.csv**. Thi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Co-Authors
+
+- **Thrisheiyan U K** - [@Thrisheiyan U K](https://github.com/ThrisheiyanUK)
